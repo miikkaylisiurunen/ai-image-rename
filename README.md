@@ -63,7 +63,7 @@ OPENROUTER_API_KEY="your-key" npx @miikkaylisiurunen/ai-image-rename image1.jpg 
 
 ### Optional Configuration
 
-Use a specific AI model (defaults to `google/gemini-2.5-flash-preview-05-20`):
+Use a specific AI model (defaults to `google/gemini-2.0-flash-001`):
 
 ```bash
 export OPENROUTER_MODEL="your-preferred-model"
